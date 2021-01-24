@@ -1,5 +1,9 @@
 title: YONTION
 subtitle: yontion
+SEOTitle: yontion
 author: Allen Huang
 language: zh-CN
+url: https://yontion.com
+
+
 theme: jekyll-theme-cayman
